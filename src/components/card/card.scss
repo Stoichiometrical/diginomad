@@ -1,0 +1,57 @@
+.card-container{
+  font-family : Montserrat,serif;
+  font-weight : bold;
+  display: inline-block;
+  position : relative;
+  padding : 10px;
+
+   img{
+     width : 200px;
+     height : 250px;
+     border-radius:15px;
+
+     &:hover{
+       scale :1.2;
+       cursor: pointer;
+
+     }
+   }
+
+  .text-cont{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+
+  }
+
+}
+
+.cards{
+  font-family : Montserrat,serif;
+
+
+
+
+  .cardsWrapper{
+    padding : 10px;
+
+    .head{
+      text-align: center;
+      font-weight : bold;
+      color: #48ACF0;
+      font-size : 30px;
+
+    }
+    .card-sect{
+      display: flex;
+      align-items: center;
+      align-content: center;
+      margin-left: 5%;
+      flex-flow: wrap;
+    }
+  }
+
+}

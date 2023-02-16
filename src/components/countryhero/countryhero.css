@@ -1,0 +1,52 @@
+.country-hero {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, Nunito, serif;
+  background-image: url("https://images.pexels.com/photos/3378996/pexels-photo-3378996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-size: cover;
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 95vh;
+  color: white;
+  overflow-x: hidden;
+}
+.country-hero .country-hero-wrapper .head {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+}
+.country-hero .country-hero-wrapper .head .country-name {
+  font-size: 80px;
+  font-weight: 800;
+}
+.country-hero .country-hero-wrapper .head .capital {
+  font-style: italic;
+  font-size: 20px;
+  font-weight: bold;
+}
+.country-hero .country-hero-wrapper .info-sect {
+  display: flex;
+  margin: 2% 12%;
+  gap: 20px;
+}
+.country-hero .country-hero-wrapper .info-sect .head-image {
+  width: 250px;
+  height: 340px;
+  border-radius: 15px;
+}
+.country-hero .country-hero-wrapper .info-sect .facts .list {
+  list-style-type: none;
+  font-family: Nunito, serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+.country-hero .country-hero-wrapper .info-sect .facts .list .list-item .flag-sect {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=countryhero.css.map */

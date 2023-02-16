@@ -1,0 +1,82 @@
+.country-hero{
+  margin :0;
+  padding :0;
+  box-sizing: border-box;
+  font-family: Montserrat,Nunito,serif;
+  //background-image: url("https://images.pexels.com/photos/2170387/pexels-photo-2170387.jpeg?auto=compress&cs=tinysrgb&w=600");
+  background-image: url("https://images.pexels.com/photos/3378996/pexels-photo-3378996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-size: cover;
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 95vh;
+  //width: 100vw;
+  color: white;
+  overflow-x: hidden;
+
+
+  .country-hero-wrapper{
+
+    .head{
+      display : flex;
+      align-items: center;
+      align-content: center;
+      flex-direction: column;
+
+      .country-name{
+        font-size : 80px;
+        font-weight:800;
+
+      }
+
+      .capital{
+        font-style: italic;
+        //margin-left: 15%;
+        font-size:20px;
+        font-weight:bold;
+
+      }
+    }
+    .info-sect{
+      display : flex;
+      //align-items: center;
+      //align-content : space-around;
+      //background-color : yellow;
+      margin : 2% 12%;
+      gap : 20px;
+      .head-image{
+        width : 250px;
+        height : 340px;
+        border-radius: 15px;
+      }
+      .facts{
+
+        .list{
+          list-style-type: none;
+          font-family: Nunito, serif;
+          font-weight: bold;
+          font-size : 20px;
+
+
+          .list-item{
+
+            .facts{
+
+            }
+            .flag-sect{
+              display: flex;
+              align-content: center;
+              align-items: center;
+            }
+          }
+        }
+      }
+
+    }
+
+
+
+
+
+  }
+}

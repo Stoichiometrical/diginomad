@@ -1,7 +1,11 @@
 {
   "name": "diginomad",
   "version": "0.1.0",
+<<<<<<< HEAD
   "homepage": "https://stoichiometrical.github.io/diginomad/",
+=======
+  "homepage": "https://stoichiometrical.github.io/diginomad/",
+>>>>>>> c1f4cdbbd30c0ad5092d2e3b8eb764d4c9c80e5e
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",

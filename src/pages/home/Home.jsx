@@ -14,7 +14,7 @@ export default function Home(){
             <Hero/>
             <div id="continents">
                 <Cards heading="CONTINENTS"  >
-                    <Card name="AFRICA" image="assets/c6.jpg"  />
+                   <Link to="/continent"><Card name="AFRICA" image="assets/c6.jpg"/></Link>
                     <Card name="EUROPE" image="assets/c8.jpg"   />
                     <Card name="AMERICA" image="assets/c7.jpg" />
                     <Card name="AUSTRALIA" image="assets/c1.jpg" />

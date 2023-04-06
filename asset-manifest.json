@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/diginomad/static/css/main.b65babb5.css",
+    "main.css": "/diginomad/static/css/main.725f1551.css",
     "main.js": "/diginomad/static/js/main.edbdfd31.js",
     "index.html": "/diginomad/index.html",
-    "main.b65babb5.css.map": "/diginomad/static/css/main.b65babb5.css.map",
+    "main.725f1551.css.map": "/diginomad/static/css/main.725f1551.css.map",
     "main.edbdfd31.js.map": "/diginomad/static/js/main.edbdfd31.js.map"
   },
   "entrypoints": [
-    "static/css/main.b65babb5.css",
+    "static/css/main.725f1551.css",
     "static/js/main.edbdfd31.js"
   ]
 }

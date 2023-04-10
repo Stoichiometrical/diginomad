@@ -68,5 +68,5 @@ npm install
 ## Author
 - David Tendai Gondo
 
-__GitHub: [@stoichiometrical](https://github.com/Stoichiometrical)
-__ LinkedIn:[David Tendai Gondo](https://www.linkedin.com/in/david-gondo/)
+- GitHub: [@stoichiometrical](https://github.com/Stoichiometrical)
+- LinkedIn:[David Tendai Gondo](https://www.linkedin.com/in/david-gondo/)

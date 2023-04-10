@@ -51,6 +51,8 @@ DigiNomad is built using the following technologies:
 ```bash
 git clone https://github.com/stoichiometrical/diginomad.git
 
+```
+
 ## Install dependencies
 cd diginomad
 npm install

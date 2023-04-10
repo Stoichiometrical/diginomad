@@ -54,17 +54,19 @@ git clone https://github.com/stoichiometrical/diginomad.git
 ```
 
 ## Install dependencies
+```
 cd diginomad
 npm install
+```
 
 ## Usage
--Visit the live demo or run the application locally following the installation instructions.
--Select the countries you want to compare from the dropdown menu.
--Explore the price comparisons and filter the data as needed.
--Use the visualizations to gain a better understanding of the cost of living in each destination.
+- Visit the live demo or run the application locally following the installation instructions.
+- Select the countries you want to compare from the dropdown menu.
+- Explore the price comparisons and filter the data as needed.
+- Use the visualizations to gain a better understanding of the cost of living in each destination.
 
-Author
-David Tendai Gondo
+## Author
+- David Tendai Gondo
 
-GitHub: [@stoichiometrical](https://github.com/Stoichiometrical)
-LinkedIn:[David Tendai Gondo](https://www.linkedin.com/in/david-gondo/)
+__GitHub: [@stoichiometrical](https://github.com/Stoichiometrical)
+__ LinkedIn:[David Tendai Gondo](https://www.linkedin.com/in/david-gondo/)
